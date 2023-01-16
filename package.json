@@ -1,0 +1,23 @@
+{
+  "name": "firstpipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faheemuzzaman/FirstPipeLine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faheemuzzaman/FirstPipeLine/issues"
+  },
+  "homepage": "https://github.com/faheemuzzaman/FirstPipeLine#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
